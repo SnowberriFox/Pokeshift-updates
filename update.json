@@ -1,0 +1,19 @@
+{
+  "homepage": "https://github.com/SnowberriFox/PokeShift/releases",
+  "promos": {
+    "1.21.1-latest": "2.2.0-ea4.16",
+    "1.21.1-recommended": "2.1.4"
+  },
+  "1.21.1": {
+    "2.2.0-ea4.16": "Update notices now read from the Pokeshift-updates repo.",
+    "2.2.0-ea4.15": "The HUD editor buttons work.",
+    "2.2.0-ea4.14": "Tells you when there's a new PokéShift build.",
+    "2.2.0-ea4.13": "Safety Lullaby's real ending; songs play out to the end of their music.",
+    "2.2.0-ea4.12": "Move and resize the Deeper Down health panel (HUD button).",
+    "2.2.0-ea4.11": "Caught legendaries and mythicals can go in your party.",
+    "2.2.0-ea4.10": "Safety Lullaby's pendulum stays for the ending.",
+    "2.2.0-ea4.9": "Lane styles (Classic, Battle, Highway) and mechanic tutorials.",
+    "2.2.0-ea4.8": "Deeper Down in tabs; osu-style song select with previews.",
+    "2.1.4": "Latest stable release."
+  }
+}
