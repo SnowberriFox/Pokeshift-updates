@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea4.18",
+    "1.21.1-latest": "2.2.0-ea4.19",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea4.19": "Frostbite's freeze bar works like the mod; the Highway lanes show your misses.",
     "2.2.0-ea4.18": "Death Toll's Hell Bell gets its own lane: press on the bell, hold while it rings.",
     "2.2.0-ea4.17": "Beyond the Limit forms battle at their real level; Seal 3+ bosses up to Lv 150.",
     "2.2.0-ea4.16": "Update notices now read from the Pokeshift-updates repo.",
