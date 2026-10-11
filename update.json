@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5.5",
+    "1.21.1-latest": "2.2.0-ea5.6",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea5.6": "Chimera's cutscene redone shot for shot from the game: dusk, low on the porch, the overgrown house, her by the window, the red face, the eye. Client only.",
     "2.2.0-ea5.5": "Chimera, after the Reboot: the cutscene actually plays now, you hiding in the wardrobe, Hex Maniac (as Alex), a smooth fade to bones, the torn-open death scenes and the Final Step's own ending. Client only.",
     "2.2.0-ea5.4": "Chimera: checkpoints like the mod (die and carry on, the Steps climbing), death scenes, your skin fading to bones in the heartbeat, the wardrobe flash, and the cutscene in place of Hex Maniac's part. Server update needed.",
     "2.2.0-ea5.3": "Chimera's ending staged like the mod: the ribcage figure with your heart, your eye up close, the closet slats, the photo flash in a dark room, and a first-person 3D crawl under the house.",
