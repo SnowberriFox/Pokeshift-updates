@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea4.16",
+    "1.21.1-latest": "2.2.0-ea4.17",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea4.17": "Beyond the Limit forms battle at their real level; Seal 3+ bosses up to Lv 150.",
     "2.2.0-ea4.16": "Update notices now read from the Pokeshift-updates repo.",
     "2.2.0-ea4.15": "The HUD editor buttons work.",
     "2.2.0-ea4.14": "Tells you when there's a new PokéShift build.",
