@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea4.22",
+    "1.21.1-latest": "2.2.0-ea4.23",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea4.23": "Watching your captive play PokéRhythm now shows their notes, presses and judgements.",
     "2.2.0-ea4.22": "Lane studio with a live preview; versus votes to skip the intro and to results, plays the song out, sides by part; Safety Lullaby fix",
     "2.2.0-ea4.21": "Sonic.exe songs, four new lane styles, your own lane colours, and versus shows both strumlines.",
     "2.2.0-ea4.20": "Death Toll's bell gets its own slot between down and up.",
