@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea4.20",
+    "1.21.1-latest": "2.2.0-ea4.21",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea4.21": "Sonic.exe songs, four new lane styles, your own lane colours, and versus shows both strumlines.",
     "2.2.0-ea4.20": "Death Toll's bell gets its own slot between down and up.",
     "2.2.0-ea4.19": "Frostbite's freeze bar works like the mod; the Highway lanes show your misses.",
     "2.2.0-ea4.18": "Death Toll's Hell Bell gets its own lane: press on the bell, hold while it rings.",
