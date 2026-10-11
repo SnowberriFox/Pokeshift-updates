@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5",
+    "1.21.1-latest": "2.2.0-ea5.1",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea5.1": "Chimera gets the heartbeat, the photo, the crawl to escape and its Step game overs, like Hypno's Lullaby V3.",
     "2.2.0-ea5": "31 new Deeper Down relics, the flooded tunnel, relics you earn, floor curses, flooded/burning/crystal floors, and new shop upgrades.",
     "2.2.0-ea4.23": "Watching your captive play PokéRhythm now shows their notes, presses and judgements.",
     "2.2.0-ea4.22": "Lane studio with a live preview; versus votes to skip the intro and to results, plays the song out, sides by part; Safety Lullaby fix",
