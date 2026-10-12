@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5.31",
+    "1.21.1-latest": "2.2.0-ea5.32",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea5.32": "Mythic items: rare actives from secret rooms (D6, D20, Poké Flute, Teleporter, Lunar Wing), used with a key, recharged by clearing rooms.",
     "2.2.0-ea5.31": "Ten corrupted relics - one way better, one way worse - from deal rooms and corrupted floors.",
     "2.2.0-ea5.30": "New note types for VS Dusttale's original songs: dust notes (stacking dust, six buries you) and hallucination notes (your notes fade for 10 s).",
     "2.2.0-ea5.29": "Deeper Down has a Music tab: play from all songs, FNF, Clone Hero or your own playlists; shuffle, in order or repeat; pause, skip, back, or pick a song.",
