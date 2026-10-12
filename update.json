@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5.27",
+    "1.21.1-latest": "2.2.0-ea5.28",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea5.28": "Six Shrine-only relics (Sacred Ash, Rainbow Wing, Silver Wing, Clear Bell, Soul Dew, Adamant Orb), and karaoke lyrics in PokéRhythm from .lrc files or Clone Hero charts.",
     "2.2.0-ea5.27": "Lane studio: a Guitar mode for the five Clone Hero lanes (colours and preview), and a Keys tab to rebind every lane key.",
     "2.2.0-ea5.26": "Clone Hero songs work like FNF charts: drop them in the server's config/pokeshift/songs and players get the music sent.",
     "2.2.0-ea5.25": "PokéRhythm plays Clone Hero / YARG guitar charts: lead, rhythm and bass on five lanes (DFJKL), in their own tab. Import your Songs folder from the song select.",
