@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5.23",
+    "1.21.1-latest": "2.2.0-ea5.24",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea5.24": "Deeper Down plays your own PokéRhythm songs instead of Minecraft's music (shuffle, now playing, skip key; toggle in song settings).",
     "2.2.0-ea5.23": "No catching anything in Deeper Down (and no more broken battles from trying), Missingno glitches the whole strumline (Expert keeps the scramble), shop sorting, Treasure Sense, corrupted unbreakable tiers. Server update needed.",
     "2.2.0-ea5.8": "ea5.8 to ea5.22: Chimera's staging rebuilt from the game's own files, shot for shot - intro, singing stage, the cutscene, the door turning to wood, the heartbeat and the Final Step's ending. Client only.",
     "2.2.0-ea5.7": "Chimera is staged start to finish now: the three polaroids, the house at night and going in, you singing at the window with the game's cut-ins behind the notes, and the cutscene retimed frame by frame. Client only.",
