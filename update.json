@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5.33",
+    "1.21.1-latest": "2.2.0-ea5.34",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea5.34": "ea5.34: Ambush rooms - ordinary-looking rooms that bar the doors for 3 waves (Breezes from floor 6), with a prize chest.",
     "2.2.0-ea5.33": "ea5.33: Corrupted hard mode (unlocked by winning on one clean heart) and six Seal pacts that each make a run harder and pay more.",
     "2.2.0-ea5.32": "Mythic items: rare actives from secret rooms (D6, D20, Poké Flute, Teleporter, Lunar Wing), used with a key, recharged by clearing rooms.",
     "2.2.0-ea5.31": "Ten corrupted relics - one way better, one way worse - from deal rooms and corrupted floors.",
