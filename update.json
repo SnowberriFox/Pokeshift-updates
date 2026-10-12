@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5.25",
+    "1.21.1-latest": "2.2.0-ea5.26",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea5.26": "Clone Hero songs work like FNF charts: drop them in the server's config/pokeshift/songs and players get the music sent.",
     "2.2.0-ea5.25": "PokéRhythm plays Clone Hero / YARG guitar charts: lead, rhythm and bass on five lanes (DFJKL), in their own tab. Import your Songs folder from the song select.",
     "2.2.0-ea5.24": "Deeper Down plays your own PokéRhythm songs instead of Minecraft's music (shuffle, now playing, skip key; toggle in song settings).",
     "2.2.0-ea5.23": "No catching anything in Deeper Down (and no more broken battles from trying), Missingno glitches the whole strumline (Expert keeps the scramble), shop sorting, Treasure Sense, corrupted unbreakable tiers. Server update needed.",
