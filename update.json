@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5.29",
+    "1.21.1-latest": "2.2.0-ea5.30",
     "1.21.1-recommended": "2.1.4"
   },
   "1.21.1": {
+    "2.2.0-ea5.30": "New note types for VS Dusttale's original songs: dust notes (stacking dust, six buries you) and hallucination notes (your notes fade for 10 s).",
     "2.2.0-ea5.29": "Deeper Down has a Music tab: play from all songs, FNF, Clone Hero or your own playlists; shuffle, in order or repeat; pause, skip, back, or pick a song.",
     "2.2.0-ea5.28": "Six Shrine-only relics (Sacred Ash, Rainbow Wing, Silver Wing, Clear Bell, Soul Dew, Adamant Orb), and karaoke lyrics in PokéRhythm from .lrc files or Clone Hero charts.",
     "2.2.0-ea5.27": "Lane studio: a Guitar mode for the five Clone Hero lanes (colours and preview), and a Keys tab to rebind every lane key.",
