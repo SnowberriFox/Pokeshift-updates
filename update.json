@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.4",
-    "1.21.1-recommended": "2.2.4"
+    "1.21.1-latest": "2.2.5",
+    "1.21.1-recommended": "2.2.5"
   },
   "1.21.1": {
+    "2.2.5": "New PokéRhythm results screen (with a section-by-section view and retry), and a Guitar Hero ring dial + glowing highway for the Clone Hero multiplier.",
     "2.2.4": "Guitar Hero style note streak callouts, and career score advancements at 10 and 50 million.",
     "2.2.3": "Clone Hero streak multiplier (up to 4x) and five new PokéRhythm advancements: Expert FC, TTFAF, 1,000 combo, a million points, Ghost on Maniac.",
     "2.2.2": "Traveler's Backpack support: your worn backpack is stashed with your things for dungeon runs, merchants sometimes sell a Dungeon Backpack, and the new Pack Mule perk makes them bigger.",
