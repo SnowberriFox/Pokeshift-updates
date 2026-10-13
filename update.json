@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.0-ea5.39",
-    "1.21.1-recommended": "2.1.4"
+    "1.21.1-latest": "2.2.0",
+    "1.21.1-recommended": "2.2.0"
   },
   "1.21.1": {
+    "2.2.0": "2.2.0 · Deeper Still: corrupted, Shrine and Mythic relics, hard mode and Seal pacts, ambush rooms, the Endless climb, the Personal Ball, big boss arenas with a corrupted titan, dungeon weapons, Clone Hero charts and karaoke lyrics in PokéRhythm, and a dungeon music player.",
     "2.2.0-ea5.39": "ea5.39: Big boss arenas (Warden, Wither, floors 20/40/60), the Personal Ball left behind can be picked up (that's a catch), captives roam while you're in it, R Key mythic, six dungeon weapons and more weapon variety.",
     "2.2.0-ea5.38": "ea5.38: Fixes from a full code review of ea5.31-37 (Mythic swap exploit, Flute vs bosses, arena boss timing, Personal Ball hiding from the hunt, and more).",
     "2.2.0-ea5.37": "ea5.37: Arena boss - floors 20, 40, 60... face a giant corrupted Pokémon with slams, charges, fireballs, corruption rain and minion shields.",
