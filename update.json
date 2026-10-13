@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.2",
-    "1.21.1-recommended": "2.2.2"
+    "1.21.1-latest": "2.2.3",
+    "1.21.1-recommended": "2.2.3"
   },
   "1.21.1": {
+    "2.2.3": "Clone Hero streak multiplier (up to 4x) and five new PokéRhythm advancements: Expert FC, TTFAF, 1,000 combo, a million points, Ghost on Maniac.",
     "2.2.2": "Traveler's Backpack support: your worn backpack is stashed with your things for dungeon runs, merchants sometimes sell a Dungeon Backpack, and the new Pack Mule perk makes them bigger.",
     "2.2.1": "Fix: Pokémon battles (dungeon bosses, challengers) could stall on turn 1 waiting for the wild Pokémon's move - it's now re-asked.",
     "2.2.0": "2.2.0 · Deeper Still: corrupted, Shrine and Mythic relics, hard mode and Seal pacts, ambush rooms, the Endless climb, the Personal Ball, big boss arenas with a corrupted titan, dungeon weapons, Clone Hero charts and karaoke lyrics in PokéRhythm, and a dungeon music player.",
