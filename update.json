@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "2.2.5",
-    "1.21.1-recommended": "2.2.5"
+    "1.21.1-latest": "3.0.0",
+    "1.21.1-recommended": "3.0.0"
   },
   "1.21.1": {
+    "3.0.0": "3.0.0 · The Split: PokéShift is now four mods. PokéShift (morphing, captures, the ball) needs SnowberriLib; the dungeon is now Deeper Down and the rhythm game is FoxTrot - install them too to keep playing them. Old worlds carry over.",
     "2.2.5": "New PokéRhythm results screen (with a section-by-section view and retry), and a Guitar Hero ring dial + glowing highway for the Clone Hero multiplier.",
     "2.2.4": "Guitar Hero style note streak callouts, and career score advancements at 10 and 50 million.",
     "2.2.3": "Clone Hero streak multiplier (up to 4x) and five new PokéRhythm advancements: Expert FC, TTFAF, 1,000 combo, a million points, Ghost on Maniac.",

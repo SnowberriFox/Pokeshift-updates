@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
+  "promos": {
+    "1.21.1-latest": "3.0.0",
+    "1.21.1-recommended": "3.0.0"
+  },
+  "1.21.1": {
+    "3.0.0": "Deeper Down 3.0.0: the dungeon is its own mod now. Works on its own (craft a Descent), with Cobblemon (party battles) or with PokéShift (as before). Pit and lava rooms are parkour-or-die if you're not the type they're for."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
+  "promos": {
+    "1.21.1-latest": "3.0.0",
+    "1.21.1-recommended": "3.0.0"
+  },
+  "1.21.1": {
+    "3.0.0": "FoxTrot 3.0.0: PokéRhythm is its own mod now (and works without PokéShift). Your songs, scores and settings come with it."
+  }
+}
