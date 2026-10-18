@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "3.1.1",
-    "1.21.1-recommended": "3.1.1"
+    "1.21.1-latest": "3.2.0",
+    "1.21.1-recommended": "3.2.0"
   },
   "1.21.1": {
+    "3.2.0": "FoxTrot 3.2.0 · Friends: friends and who's online, versus against anyone on any server (or from singleplayer), a rival side for Clone Hero, middlescroll, offset in the settings, and the song library on the hub.",
     "3.1.1": "FoxTrot 3.1.1: FoxTrot has its own key now (U, or bind Open FoxTrot in Controls), so it opens without PokéShift too.",
     "3.1.0": "FoxTrot 3.1.0 · Career: career pages, lifetime stats and badges, versus clears on the boards, and the FoxTrot Hub (one leaderboard across every server).",
     "3.0.0": "FoxTrot 3.0.0: PokéRhythm is its own mod now (and works without PokéShift). Your songs, scores and settings come with it."
