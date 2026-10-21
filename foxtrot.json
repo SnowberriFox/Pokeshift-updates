@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "3.6.1",
-    "1.21.1-recommended": "3.6.1"
+    "1.21.1-latest": "4.0.0",
+    "1.21.1-recommended": "4.0.0"
   },
   "1.21.1": {
+    "4.0.0": "FoxTrot 4.0.0 · Anywhere: a desktop app that plays with Minecraft players through the hub, FoxTrot accounts (log in from the app, the website or in game), every screen redrawn, an offset finder, and fixes for spectate music, D-Sides, Bad Time and the Safety Lullaby pendulum. Update the server and your game together.",
     "3.6.1": "FoxTrot 3.6.1: spectating plays the music and runs 3 s behind (holds show properly), Clone Hero sustains score as you hold them (no miss for letting go early), and the daily bounty is the hardest difficulty.",
     "3.6.0": "FoxTrot 3.6.0 · Together: parties with a song queue, free-for-alls of up to 8, fight mode, spectating on any server, group pause, a daily bounty song and admin abuse events.",
     "3.5.0": "FoxTrot 3.5.0 · Sets & Mythics: 22 new cosmetic sets (88 items) including five Mythics that react to your combo and the beat, a full-set flex on your career page, an 8-item shelf, and a new set every week.",

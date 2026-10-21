@@ -12,6 +12,9 @@ build (a toast on the title screen and a chat line with a link when they join):
 
 Since 3.0.0 they're four separate jars: SnowberriLib is always needed, the other three are pick-and-mix.
 
+Since FoxTrot 4.0.0 there's also **`foxtrot-app-4.0.0.jar`**: FoxTrot on its own, no Minecraft needed (Java 21+, run it with
+`java -jar foxtrot-app-4.0.0.jar`). It plays with Minecraft players through the FoxTrot Hub.
+
 - `promos."1.21.1-latest"`: the newest build, early access included. EA players are told about it.
 - `promos."1.21.1-recommended"`: the newest stable build. Everyone is told about it.
 - `"1.21.1"`: a one-line note per version, shown with the notice.
