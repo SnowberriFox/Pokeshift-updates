@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "4.2.5",
-    "1.21.1-recommended": "4.2.5"
+    "1.21.1-latest": "4.2.6",
+    "1.21.1-recommended": "4.2.6"
   },
   "1.21.1": {
+    "4.2.6": "FoxTrot 4.2.6: native arrows for Hypno's Lullaby songs (the game's own notes, a toggle in the song's settings) and Chimera drawn by the real game for allowed accounts. Plays with 4.2.2 to 4.2.5.",
     "4.2.5": "FoxTrot 4.2.5: the app picks your sound output and sound system (no more silent FoxTrot when PulseAudio and PipeWire clash), and Safety Lullaby and Monochrome drawn by the real game for allowed accounts. Plays with 4.2.2 to 4.2.4.",
     "4.2.4": "FoxTrot 4.2.4: Hypno's Lullaby plays like the real game - Safety Lullaby's pendulum on the game's own timing (3/4 stretch included) and Monochrome's Unown typing with its max-health rule. Plays with 4.2.2 and 4.2.3.",
     "4.2.3": "FoxTrot 4.2.3: a much stricter Hypno's Lullaby pendulum (±80 ms, 5 ignored swings) and the daily bounty no longer says a song is \"not on this server\" when it is. Plays with 4.2.2.",
