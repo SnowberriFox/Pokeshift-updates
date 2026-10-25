@@ -1,10 +1,12 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "4.2.0",
-    "1.21.1-recommended": "4.2.0"
+    "1.21.1-latest": "4.2.2",
+    "1.21.1-recommended": "4.2.2"
   },
   "1.21.1": {
+    "4.2.2": "FoxTrot 4.2.2: mechanics levels (Off / Relaxed / On / Expert), Seek's Deltarune TP healing and the Knight's knife, backgrounds in the app, a stricter pendulum and a deeper whammy. Update the server and your game together.",
+    "4.2.1": "FoxTrot 4.2.1: Clone Hero songs on the hub's song library are for FoxTrot accounts now.",
     "4.2.0": "FoxTrot 4.2.0 · Streaks: versus win streaks with bonus Tickets for breaking one, a Mechanics % on your results and career, and the Song Store asks before replacing songs you set up yourself.",
     "4.1.0": "FoxTrot 4.1.0 · Star Power: Star Power and a whammy bar for Clone Hero songs, a Song Store to grab any song from the hub in game, a visual offset, Snowberri's bounty rerolls, and the Safety Lullaby pendulum back in time. Update the server and your game together.",
     "4.0.0": "FoxTrot 4.0.0 · Anywhere: a desktop app that plays with Minecraft players through the hub, FoxTrot accounts (log in from the app, the website or in game), every screen redrawn, an offset finder, and fixes for spectate music, D-Sides, Bad Time and the Safety Lullaby pendulum. Update the server and your game together.",
