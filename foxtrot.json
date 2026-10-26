@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "4.3.0",
-    "1.21.1-recommended": "4.3.0"
+    "1.21.1-latest": "4.3.1",
+    "1.21.1-recommended": "4.3.1"
   },
   "1.21.1": {
+    "4.3.1": "FoxTrot 4.3.1: Hypno's Lullaby follows the game - notes and HUD hide in its cutscenes, the Hypno UI is just the game's look, the game comes from the hub for allowed accounts, and credits with a link to support the team. Plays with 4.2.2 to 4.3.0.",
     "4.3.0": "FoxTrot 4.3.0: Hypno's Lullaby live - the game's own stages running behind your notes if you have the game (Live stage in the app's settings), the Hypno UI with the game's HUD and Unown for allowed accounts, and Lanes at Classic, Middle or Right. Plays with 4.2.2 to 4.2.7.",
     "4.2.7": "FoxTrot 4.2.7: Safety Lullaby and Monochrome drawn by the real game for allowed accounts, with Red's jumpscares and the eyes over your notes like in the game. Plays with 4.2.2 to 4.2.6.",
     "4.2.6": "FoxTrot 4.2.6: native arrows for Hypno's Lullaby songs (the game's own notes, a toggle in the song's settings) and Chimera drawn by the real game for allowed accounts. Plays with 4.2.2 to 4.2.5.",
