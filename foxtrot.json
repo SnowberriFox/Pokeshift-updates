@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "4.5.0",
-    "1.21.1-recommended": "4.5.0"
+    "1.21.1-latest": "4.6.0",
+    "1.21.1-recommended": "4.6.0"
   },
   "1.21.1": {
+    "4.6.0": "FoxTrot 4.6.0: profile pictures - any picture or GIF instead of your Minecraft head, shown on leaderboards, results, Career, friends and Chats, in the app and in Minecraft. Plays with 4.2.2 to 4.5.0.",
     "4.5.0": "FoxTrot 4.5.0: the app now draws on your graphics card (OpenGL) - smoother everywhere, and Hypno's Lullaby's live stage costs next to nothing - with an automatic fallback to the old way if your drivers can't. Plays with 4.2.2 to 4.4.1.",
     "4.4.1": "FoxTrot 4.4.1: Hypno's Lullaby's live stage costs the app a fraction of the CPU it did (smooth at 1080p), and the game in the background is quieter. Plays with 4.2.2 to 4.4.0.",
     "4.4.0": "FoxTrot 4.4.0: chats with your friends - DMs, group chats, reactions and GIFs, in the app and in Minecraft (Y) - plus one Settings page with search, and an FPS counter and stats for nerds (F3). Plays with 4.2.2 to 4.3.1.",
