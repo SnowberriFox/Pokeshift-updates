@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Pokeshift-updates/releases",
   "promos": {
-    "1.21.1-latest": "4.5.3",
-    "1.21.1-recommended": "4.5.3"
+    "1.21.1-latest": "4.5.4",
+    "1.21.1-recommended": "4.5.4"
   },
   "1.21.1": {
+    "4.5.4": "FoxTrot 4.5.4: a chart maker in the app with hub uploads that wait for approval, screen sharing in voice calls (the FoxTrot window only), Indie Cross's Bad Time with its real orange and blue bones and attacks, retuned mechanics (the pendulum at the mod's window, a much harsher Expert), menu animations, Arrows or Circles, Discord activity, and spectating fixes. Plays with 4.2.2 to 4.5.3.",
     "4.5.3": "FoxTrot 4.5.3: the Weekly - a back-to-back chart of 4 to 6 songs with crossfades and score and health carried over, plus a weekly leaderboard, top 3 win Tickets every Monday - scores scaled by the mechanics level (Off x0.7 to Expert x1.25), noise suppression in voice calls, patch notes in the game, and fixes for scores that didn't save and Windows file pickers. Plays with 4.2.2 to 4.5.2; update servers too for versus.",
     "4.5.2": "FoxTrot 4.5.2: voice calls in the app's chats, emoji (any emoji as a reaction too), pictures, score cards and \"can you beat it?\" challenges, a message dingle, the star power key counting as a strum, a sort for the song lists, Clone Hero songs with .opus music in the app, and songs in Japanese-named folders playing again. Plays with 4.2.2 to 4.5.1.",
     "4.5.1": "FoxTrot 4.5.1: fixes for Endless (D-Sides), Death Toll's extra notes and Monochrome's thorn bar covering your arrows, rebindable note-speed keys, profile pictures up to 20 MB, and the hub saying what went wrong instead of HTTP 500. Plays with 4.2.2 to 4.5.0.",
